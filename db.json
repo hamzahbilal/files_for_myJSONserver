@@ -8,5 +8,11 @@
     {"date": "28.08.2023", "orders_count": 20},
     {"date": "29.08.2023", "orders_count": 28}
   ],
-  "pie_chart_data": []
+  "pie_chart_data": [],
+  "numbers_list_for_bar_chart_X": [
+    30, 29, 28, 27, 26, 25, 24
+  ],
+  "numbers_list_for_bar_chart_Y": [
+    10, 15, 10, 12, 26, 15, 35
+  ]
 }
