@@ -1,0 +1,12 @@
+{
+  "bar_chart_data": [
+    {"date": "23.08.2023", "orders_count": 12},
+    {"date": "24.08.2023", "orders_count": 10},
+    {"date": "25.08.2023", "orders_count": 10},
+    {"date": "26.08.2023", "orders_count": 20},
+    {"date": "27.08.2023", "orders_count": 15},
+    {"date": "28.08.2023", "orders_count": 20},
+    {"date": "29.08.2023", "orders_count": 28}
+  ],
+  "pie_chart_data": []
+}
